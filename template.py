@@ -19,7 +19,7 @@ list_of_files=[
     "config/config.yaml",
     "params.yaml",
     "app.py","main.py","Dockerfile",
-    "requirements.txt","setup.py","research/trials.ipynb","test.py"]
+    "requirements.txt","setup.py","research/trials.ipynb"]
 
 for filepath in list_of_files:
     filepath=Path(filepath)
